@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_221" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <int>1</int>
+   <object class="sample.Task">
+    <void property="description">
+     <string>test1</string>
+    </void>
+    <void property="id">
+     <int>1</int>
+    </void>
+    <void property="priority">
+     <string>Medium</string>
+    </void>
+    <void property="progress">
+     <int>50</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <int>2</int>
+   <object class="sample.Task">
+    <void property="description">
+     <string>test2</string>
+    </void>
+    <void property="id">
+     <int>2</int>
+    </void>
+    <void property="priority">
+     <string>Low</string>
+    </void>
+    <void property="progress">
+     <int>40</int>
+    </void>
+   </object>
+  </void>
+  <void method="put">
+   <int>3</int>
+   <object class="sample.Task">
+    <void property="description">
+     <string>test3</string>
+    </void>
+    <void property="id">
+     <int>3</int>
+    </void>
+    <void property="priority">
+     <string>Medium</string>
+    </void>
+    <void property="progress">
+     <int>60</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,202 @@
+7,Green Ranger - Oliver,Hero
+10,Mr Coconut,Hero
+11,Verunus,Unique
+12,Menga Linuxer,Hero
+13,Visiri Capt'n,Unique
+14,Medusa,Epic
+16,Serge Eric,Unique
+18,Yusi,Hero
+19,Xin,Hero
+21,Roborob,Hero
+28,Assassin alien,Epic
+29,Ponytail Alien,Epic
+31,Dennis,Unique
+32,Demon Boy,Epic
+33,Professor,Unique
+37,Thomas,Hero
+38,Eric,Epic
+39,Elf,Epic
+41,Vivien,Unique
+42,Lollita,Hero
+43,Male Nurse,Unique
+45,Government Troop,Epic
+46,Gentleman,Unique
+47,Ninja,Epic
+48,Good student,Unique
+49,Walking Skeleton,Epic
+51,Arctic Pole Boy,Unique
+52,Astronaut,Unique
+53,Evil General,Unique
+58,Monkey King,Epic
+62,Sakura,Epic
+67,Cara,Unique
+68,Witch,Epic
+69,Jessica,Unique
+74,Invader,Hero
+78,Emily,Unique
+79,Golden Troop,Epic
+80,Salon Customer,Unique
+81,Kingpin,Epic
+82,Office Exec,Unique
+83,David,Unique
+84,Paul,Unique
+85,Omar,Unique
+86,Jesus,Unique
+87,Teddy,Epic
+88,Liu Bei,Epic
+89,Guan Yu,Hero
+90,Zhang Fei,Epic
+91,Dong Zhuo,Epic
+92,Cao Cao,Epic
+93,Lyu Bu,Hero
+94,Zhao Yun,Epic
+95,Zhuge Liang,Epic
+98,Easter Bunny,Epic
+99,Mr Egggg,Unique
+100,Giant Slime,Epic
+101,Simon,Unique
+102,Rocky,Hero
+103,Golden Boy,Epic
+104,Cat Boy,Unique
+105,Tin Man,Epic
+107,Mecha,Hero
+108,Foxy Girl,Epic
+109,Dr Sera,Epic
+110,Silver Paladin,Legendary
+112,Ron,Epic
+113,Jaiden,Hero
+114,SCV,Legendary
+115,Professor Brenda,Legendary
+116,Paralympic God,Legendary
+117,Eva,Legendary
+120,Zombie,Unique
+121,Zombieee,Unique
+123,Helen,Unique
+125,Reaper,Legendary
+126,Willy,Legendary
+127,Alien Queen,Legendary
+133,Orc,Epic
+137,Stevo,Epic
+144,Sie,Epic
+145,Bogan,Hero
+147,King Dong,Legendary
+148,Taura,Hero
+150,Bad Uncle,Epic
+151,Maya,Hero
+152,Huntress,Hero
+154,Agay,Epic
+156,Ryzen,Hero
+157,Mama,Unique
+159,Geeky Vincent,Epic
+160,Le Vincent,Epic
+161,Alpaco,Hero
+163,Tiffany,Unique
+167,Ribi,Unique
+182,King Salamander,Unique
+183,Captain Mack Swallow,Unique
+185,Mcdonalds,Epic
+186,Stove Tops,Epic
+187,Ethan,Hero
+188,Brenda Linuxer,Hero
+189,Huge Hellaloya,Epic
+191,Robyna Hoots,Unique
+192,Keira,Epic
+193,Masky Lia,Epic
+194,Red Ninja,Unique
+195,Admiral Serena,Hero
+196,Pinkzilla,Legendary
+197,Miss Jane,Hero
+205,Nolan,Unique
+206,Sagita,Hero
+207,Tripod,Epic
+208,Mr She,Epic
+210,Mr Old,Epic
+211,Mr Alan,Epic
+212,Mr Cray,Epic
+213,Leon Mars,Hero
+215,Aaron,Epic
+218,Visiri Alchemist,Hero
+224,Alien McAlienface,Unique
+225,Miss McAlienface,Unique
+228,Barot,Epic
+231,Messiah,Unique
+255,Cancer,Hero
+256,Gemini,Hero
+257,Fed Medic,Unique
+258,First Mate,Unique
+259,Qtarian Healer,Unique
+260,Libra,Hero
+261,Henry,Epic
+267,Leo,Hero
+269,Christian,Unique
+270,Lilith,Legendary
+271,Abbie,Epic
+272,Mistycball,Epic
+273,Ardent Templar,Epic
+275,Schrodinger,Unique
+276,TJ,Epic
+277,Angel,Hero
+278,Bad Vlad,Epic
+279,Ennui,Epic
+280,Virgo,Hero
+288,Dracorpse,Legendary
+293,Scorpio,Hero
+311,Mad Jackson,Epic
+313,Snow Joe,Epic
+315,Gray Virtuoso,Unique
+316,Dr Mew,Unique
+319,Ardent Starhuntress,Unique
+321,Server Eric,Epic
+322,Capricorn,Hero
+324,Aquarius,Hero
+326,Pisces,Hero
+327,Wandering Spirit,Unique
+328,Ancestral Spirit,Hero
+329,Ichigo,Hero
+330,Aries,Hero
+331,Mangrove,Unique
+332,Cypress,Unique
+333,Papyrus,Unique
+334,Timber,Hero
+337,Bliss,Epic
+338,Zongzi-Man,Hero
+342,Western Crow,Hero
+345,Sherry,Epic
+346,Snowie,Hero
+347,Commodore Firenz,Hero
+348,Galactic Sprite,Legendary
+350,Galactic Alchemist,Legendary
+352,Countess Miyoko,Hero
+354,Alibaba,Epic
+355,Turkey Hero,Hero
+356,Cyber Duck,Legendary
+357,Galactic Snow Maiden,Legendary
+358,Rudolph,Hero
+359,Glitch,Hero
+361,Meng Huo,Hero
+362,Xiahou Dun,Hero
+363,Ma Chao,Hero
+364,Cupid Trooper,Hero
+365,Big Boom Cat,Hero
+366,Steamy Aleks,Epic
+367,Tom Alpha,Unique
+368,Mermaid,Hero
+371,Mad Admiral,Hero
+372,Infected Swallow,Hero
+373,Err////jjjdz111,Hero
+375,Nezha,Legendary
+376,Zongzi-Woman,Hero
+378,Pagan Burger,Epic
+381,TechBarr the Unwashed,Legendary
+382,Legatus Abel,Legendary
+383,The Conjoint Archon,Legendary
+384,C.P.U.,Legendary
+385,Admiral Snek,Legendary
+402,The Red Baron,Hero
+403,Jack,Unique
+404,Ghostly Charles,Epic
+405,Penny,Epic
+406,Admiral Yi,Hero
+407,Hong Gil-Dong,Hero
+408,Yi Hwang,Hero
+409,King Sejong the Great,Legendary
